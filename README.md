@@ -1,5 +1,5 @@
 # BIOL7210 Workflow Exercise: Genomics Pipeline
-**Student:** KR Thejaswini Krishna
+**Student:**  Thejaswini Krishna
 
 ## Workflow Overview
 This Nextflow DSL2 pipeline is designed for computational genomics, demonstrating both sequential and parallel task execution.
